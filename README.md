@@ -1,5 +1,4 @@
 
-https://github.com/trishcho/BreviTube/issues/1#issue-2462074397
 
 ## Authors
 
