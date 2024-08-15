@@ -4,8 +4,7 @@
 
 - [@Trishul](https://www.github.com/trishcho)
 
-BreviTube: Quick Summaries for YouTube Videos
-BreviTube is a Streamlit-based web application that generates concise summaries of YouTube videos by extracting their transcripts and using Google's generative AI for summarization. This tool is perfect for anyone who wants to quickly grasp the key points of lengthy YouTube content.
+BreviTube :  Quick Summaries for YouTube Videos. This is a Streamlit-based web application that generates concise summaries of YouTube videos by extracting their transcripts and using Google's generative AI for summarization. This tool is perfect for anyone who wants to quickly grasp the key points of lengthy YouTube content.
 
 
 ## Features
